@@ -34,6 +34,6 @@
 	</div>
 	<div class="absolute ml-12">
 		<div class="text-md font-bold text-black">{role}</div>
-		<div class="flex h-min max-w-lg text-[9px] text-gray-400">{jobtype}</div>
+		<div class="flex h-min max-w-lg text-xs text-gray-400">{jobtype}</div>
 	</div>
 </div>
