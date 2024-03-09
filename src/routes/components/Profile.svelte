@@ -13,6 +13,8 @@
 </script>
 
 <section class="font-inter mt-8 flex">
+
+    
 	<div class="mb-4 ml-40 grid">
 		<Avatar.Root class="mr-4 h-28 w-28  ">
 			<Avatar.Image
@@ -59,7 +61,7 @@
 			</div>
 		</div>
 		<div class="ml-6 flex h-min max-w-lg text-right text-sm text-xs text-black">
-			My website <a href="https://www.google.com"
+			My website <a href="https://duggup.com"
 				><SquareArrowOutUpRight size="14" strokeWidth="2" class="ml-1 text-gray-400" /></a
 			>
 		</div>
