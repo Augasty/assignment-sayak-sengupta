@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>duggup</title>
+	<meta name="description" content="duggup" />
 </svelte:head>
 
 <section>
