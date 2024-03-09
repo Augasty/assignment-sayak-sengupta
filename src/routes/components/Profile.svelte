@@ -56,7 +56,7 @@
 				<Avatar.Fallback class="rounded-full border border-black">DU</Avatar.Fallback>
 			</Avatar.Root>
 			<div class="ml-24 flex h-min max-w-lg text-right text-sm font-bold text-black">Duggup</div>
-			<div class="ml-8 flex h-min max-w-lg text-right text-sm text-xs text-gray-400">
+			<div class="ml-8 flex h-min max-w-lg text-right text-xs text-gray-400">
 				Co-Founder and CEO
 			</div>
 		</div>
